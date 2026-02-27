@@ -1,0 +1,5 @@
+{
+  "name": "Shafer",
+  "description": "A women's safety app offering immediate response, safe path planning, SOS features, and a supportive community platform.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}
