@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Shafer是一款多功能女性安全手机 App。
 
-# Run and deploy your AI Studio app
+![Shafer App](images/project.png)
 
-This contains everything you need to run your app locally.
+其核心功能包括：
 
-View your app in AI Studio: https://ai.studio/apps/4542b551-6f6c-4d7f-9f2d-b66b0dec1a1d
+### 1. 即时响应与SOS
+在紧急情况下，用户可通过一键SOS功能，迅速通知紧急联系人和附近的用户。
 
-## Run Locally
+![SOS 功能](images/detail1.png)
 
-**Prerequisites:**  Node.js
+### 2. 安全路线规划
+基于实时数据和社区反馈，为用户规划出夜晚更安全、光照更好的出行路线。
 
+![安全路线规划](images/detail2.png)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 3. 互助社区平台
+用户可以在平台上分享安全资讯、报告可疑活动、形成一个互相支持和守护的社区网络。
+
+![互助社区](images/detail3.png)
